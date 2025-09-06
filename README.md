@@ -1,3 +1,3 @@
 # NDAC Recrunner Stats
 
-- Voronoi diagrams of parkruns visited by Recrunners
+- [Voronoi diagrams of parkruns visited by Recrunners](voronoi/index.html)
